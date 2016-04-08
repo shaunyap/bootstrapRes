@@ -1,0 +1,32 @@
+
+@import 'material-kit/variables';
+@import 'material-kit/mixins';
+@import 'material-kit/shadows';
+@import 'material-kit/core';
+
+@import 'material-kit/ripples';
+
+@import 'material-kit/example-pages';
+
+.main {
+  margin-bottom: 3rem;
+}
+
+.lead {
+  padding-top: 2.5rem;
+  font-size: 1.3em;
+  font-weight: 400;
+}
+
+.job {
+  padding-top: 3rem;
+  padding-bottom: 0.8rem;
+}
+
+.education p {
+  margin-top: 10px;
+}
+
+.logo {
+  max-width: 150px;
+}
